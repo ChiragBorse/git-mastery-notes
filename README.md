@@ -25,8 +25,8 @@ Run these commands once when configuring your environment in Git Bash:
 
 ```bash
 # Set your identity
-git config --global user.name "ChiragBorse"
-git config --global user.email "chiragkborse@gmail.com"
+git config --global user.name 
+git config --global user.email 
 
 # Check active configuration
 git config --list
