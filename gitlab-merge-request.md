@@ -9,8 +9,8 @@ Create a feature branch, make changes, push to GitLab, create a Merge Request (M
 
 ```bash
 # Configure user details
-git config --global user.name "ChiragBorse"
-git config --global user.email "chiragkborse@gmail.com"
+git config --global user.name "UserName"
+git config --global user.email "user@gmail.com"
 
 # Clone the remote repository
 git clone [https://gitlab.com/user/hii.git](https://gitlab.com/user/hii.git)
